@@ -80,6 +80,7 @@ Les données sont hébergées et synchronisées dans **Google Drive**, permettan
 - une connexion directe avec Tableau Desktop,  
 - une mise à jour simple et automatique.
 
+Le lien canva de la présentation : https://www.canva.com/design/DAG7C1NoFIQ/qY_iiTY518Icg8ODz_cIHA/edit?utm_content=DAG7C1NoFIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 
 ## 👥 Auteurs
