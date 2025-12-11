@@ -35,7 +35,7 @@ Les données incluent les années **2015, 2016, 2017 et 2018**, ainsi que des in
 - Indicateurs de performance logistique  
 
 ### **2. Ventes**
-- Ventes annuelles (2015–2016–2017)  
+- Ventes annuelles (2015–2016–2017-2018)  
 - Analyse par région, État, ville  
 - Répartition par catégorie de produits  
 - Top produits et top régions  
@@ -64,8 +64,8 @@ Vous pouvez consulter le tableau de bord complet ici :
 
 ## 📁 Base de données
 
-La base comprend plus de **50 variables** portant sur :  
-- les commandes (dates, quantités, prix, bénéfices),  
+La base comprend plus de **52 variables** portant sur :  
+- les commandes (dates, quantités, prix, bénéfices, marchés),  
 - les clients (localisation, segment, identité),  
 - les produits (catégories, prix, statut),  
 - la logistique (mode d’expédition, délai, retards).
