@@ -64,7 +64,7 @@ Vous pouvez consulter le tableau de bord complet ici :
 
 ## 📁 Base de données
 
-La base comprend plus de **52 variables** portant sur :  
+La base comprend **52 variables** portant sur :  
 - les commandes (dates, quantités, prix, bénéfices, marchés),  
 - les clients (localisation, segment, identité),  
 - les produits (catégories, prix, statut),  
