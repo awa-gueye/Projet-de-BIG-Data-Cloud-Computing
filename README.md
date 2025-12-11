@@ -8,7 +8,7 @@ L’objectif est de fournir une vue claire et dynamique sur les **ventes**, les 
 
 Le tableau de bord comporte **quatre pages principales** :
 
-- **Accueil** : KPIs globaux (ventes, bénéfices, nombre de commandes, croissance annuelle).  
+- **Accueil** : KPIs globaux (ventes, bénéfices, nombre de commandes, croissance annuelle,...).  
 - **Ventes** : analyse des ventes par année, région, produit et segment client.  
 - **Clients** : segmentation, intensité d’achat, localisation, nombre moyen de commandes par client.  
 - **Commandes** : suivi des délais, retards, modes d’expédition et état des commandes.
