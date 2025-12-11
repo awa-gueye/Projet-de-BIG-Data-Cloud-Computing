@@ -108,7 +108,7 @@ Ce projet vise à :
 
 ## 📌 Comment ouvrir le projet
 
-1. Télécharger le fichier `.twbx` depuis ce dépôt.  
+1. Télécharger le fichier `.twb` depuis ce dépôt.  
 2. L’ouvrir dans **Tableau Desktop**. 
 
 ---
