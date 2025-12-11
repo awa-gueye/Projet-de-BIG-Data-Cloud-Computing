@@ -69,6 +69,10 @@ La base comprend **52 variables** portant sur :
 - les clients (localisation, segment, identité),  
 - les produits (catégories, prix, statut),  
 - la logistique (mode d’expédition, délai, retards).
+ 
+Elle est disponible via Google Drive pour consultation et téléchargement :  
+
+👉 **https://drive.google.com/file/d/1OUvYRssvy_xh58x_TB7MjA1MGrN5vANQ/view?usp=drive_link**
 
 ### Hébergement  
 Les données sont hébergées et synchronisées dans **Google Drive**, permettant :  
