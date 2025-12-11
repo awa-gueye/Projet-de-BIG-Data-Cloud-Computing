@@ -58,7 +58,7 @@ Les données incluent les années **2015, 2016, 2017 et 2018**, ainsi que des in
 ## 🔗 Dashboard en ligne
 
 Vous pouvez consulter le tableau de bord complet ici :  
-👉 **https://public.tableau.com/app/profile/awa.gueye3491/viz/Mon_projet/Commandes?publish=yes**
+👉 **https://public.tableau.com/app/profile/awa.gueye3491/viz/Mon_projet**
 
 ---
 
